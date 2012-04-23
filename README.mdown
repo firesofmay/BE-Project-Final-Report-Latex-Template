@@ -10,6 +10,7 @@ For Details : [Old Blog Post explaing how to use Templates](http://firesofmay.bl
 
 BE Project Final Report in Latex for Pune University
 ---------------
+
 Features :
 - Main File is report.tex
 - Header/Footer as per format
@@ -20,6 +21,7 @@ Features :
 
 Tested and Recommended Software (on Linux) : Kile
 How to install in Ubuntu 
+
     $ sudo apt-get install kile
 
 Enjoy!
