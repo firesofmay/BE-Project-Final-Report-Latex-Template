@@ -3,12 +3,13 @@ BE Project Final Report Template In Latex
 
 Author : Mayank Jain
 
-Blog : http://firesofmay.blogspot.in/
+Blog : [My Blog](http://firesofmay.blogspot.in/)
 
-For Details : http://firesofmay.blogspot.in/2011/10/latex-project-report-template.html
+For Details : [Old Blog Post explaing how to use Templates](http://firesofmay.blogspot.in/2011/10/latex-project-report-template.html)
 
 
 BE Project Final Report in Latex for Pune University
+---------------
 Features :
 - Main File is report.tex
 - Header/Footer as per format
@@ -19,6 +20,6 @@ Features :
 
 Tested and Recommended Software (on Linux) : Kile
 How to install in Ubuntu 
-$ sudo apt-get install kile
+    $ sudo apt-get install kile
 
 Enjoy!
