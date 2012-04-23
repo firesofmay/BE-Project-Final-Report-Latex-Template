@@ -1,8 +1,12 @@
 BE Project Final Report Template In Latex
-Author : Mayank Jain
-Blog : http://firesofmay.blogspot.in/
-For Details : http://firesofmay.blogspot.in/2011/10/latex-project-report-template.html
 ================================
+
+Author : Mayank Jain
+
+Blog : http://firesofmay.blogspot.in/
+
+For Details : http://firesofmay.blogspot.in/2011/10/latex-project-report-template.html
+
 
 BE Project Final Report in Latex for Pune University
 Features :
@@ -12,5 +16,9 @@ Features :
 - Automatic Code Formatting
 - Diagrams/Code Folder Seperate
 - Easy to Add/Modify
+
+Tested and Recommended Software (on Linux) : Kile
+How to install in Ubuntu 
+$ sudo apt-get install kile
 
 Enjoy!
