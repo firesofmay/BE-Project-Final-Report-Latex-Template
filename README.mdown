@@ -5,7 +5,7 @@ Author : Mayank Jain
 
 Blog : [My Blog](http://firesofmay.blogspot.in/)
 
-For Details : [Old Blog Post explaing how to use Templates](http://firesofmay.blogspot.in/2011/10/latex-project-report-template.html)
+For Details Check: [Old Blog Post explaing how to use Templates](http://firesofmay.blogspot.in/2011/10/latex-project-report-template.html)
 
 
 BE Project Final Report in Latex for Pune University
@@ -20,6 +20,7 @@ Features :
 - Easy to Add/Modify
 
 Tested and Recommended Software (on Linux) : Kile
+
 How to install in Ubuntu 
 
     $ sudo apt-get install kile
